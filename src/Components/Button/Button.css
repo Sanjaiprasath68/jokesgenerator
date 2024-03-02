@@ -1,0 +1,22 @@
+button{
+    display: inline-block;
+    background-color: #70a03a;
+    padding: 10px 20px;
+    color: #ffffff;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: background-color .5s;
+    margin-top: 20px;
+}
+button:hover{
+    background-color: #c1f590;
+}
+button:active{
+    background-color: #297910;
+}
+/* .button{
+    text-align: center;
+    margin-top: 20px;
+} */
